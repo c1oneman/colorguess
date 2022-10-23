@@ -1,6 +1,7 @@
 # [Colorguess](https://github.com/c1oneman/colorguess/)
 
 A dead simple hex color guessing game built on react.
+[View live site](https://6355d1339f22b05a4735cb84--friendly-dolphin-de82f0.netlify.app/)
 
 Built as a half hour project. Uploaded to github for safe keeping.
 
